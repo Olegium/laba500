@@ -9,4 +9,4 @@ add_executable(testing test_account.cpp)
 
 target_link_libraries(testing Transaction Account gtest gmock)
 
-add_test(test testing
+add_test(test testing)
