@@ -1,4 +1,3 @@
 ## Laboratory work V
 
-- name: Coveralls GitHub Action
-  uses: coverallsapp/github-action@v2.3.6
+https://coveralls.io/repos/github/Olegium/laba500/badge.svg?branch=main
