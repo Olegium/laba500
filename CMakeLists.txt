@@ -8,4 +8,4 @@ add_compile_options(--coverage)
 
 add_subdirectory(banking)
 add_subdirectory(testing)
-add_subdirectory(googletest)
+add_subdirectory(googletest1/googletest)
