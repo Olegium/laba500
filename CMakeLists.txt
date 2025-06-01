@@ -7,5 +7,5 @@ add_link_options(--coverage)
 add_compile_options(--coverage)
 
 add_subdirectory(banking)
-add_subdirectory(testing)
+add_subdirectory(test)
 add_subdirectory(googletest1/googletest)
