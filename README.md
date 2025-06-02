@@ -2,3 +2,4 @@
 
 https://coveralls.io/repos/github/Olegium/laba500/badge.svg?branch=main
 https://coveralls.io/repos
+https://coveralls.io/builds/73941146
